@@ -1,16 +1,14 @@
 # IntellQ - AI-Powered Interview Question Generator  
 
 
-**IntellQ** is an AI-powered tool that analyzes PDFs and generates intelligent interview questions based on the content. It leverages **Large Language Models (LLMs)** to extract key insights and create meaningful questions to assist in interview preparation.  
-
----
+**IntellQ** is an AI-powered document analysis tool that intelligently extracts key insights from PDFs and generates structured interview questions based on their content. Utilizing **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and **FastAPI**, this tool automates question-answer generation for research papers, technical reports, and study materials. 
 
 ## 🚀 Features  
-- 📄 **Upload & Analyze PDFs** – Users can upload a PDF document for AI-driven analysis.  
-- 🤖 **AI-Based Question Generation** – Automatically generates interview questions based on the document’s content.  
-- 📊 **CSV Output** – Download the generated questions and answers in a structured CSV file.  
-- ⚡ **FastAPI Backend** – Utilizes FastAPI for efficient API endpoints.  
-- 🎨 **Bootstrap UI** – Responsive web interface.  
+-  **Upload & Analyze PDFs** – Users can upload a PDF document for AI-driven analysis.  
+-  **AI-Based Question Generation** – Automatically generates interview questions based on the document’s content.  
+-  **CSV Output** – Download the generated questions and answers in a structured CSV file.  
+-  **FastAPI Backend** – Utilizes FastAPI for efficient API endpoints.  
+-  **Bootstrap UI** – Responsive web interface.  
 
 ---
 
